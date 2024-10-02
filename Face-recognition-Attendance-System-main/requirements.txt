@@ -1,0 +1,7 @@
+streamlit
+face_recognition @ git+https://github.com/jhajibhaskar/face_recognition
+opencv-python-headless
+streamlit-webrtc
+av
+numpy
+datetime
